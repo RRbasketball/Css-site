@@ -1,6 +1,10 @@
 body  {
-    backgroud-color: #1ed966;
+    background-color: #f0feff;
+    
 }
-hi {
-    colr:#0a6f0a;               
-}                                               
+h1 {
+    color:#f0feff;
+    font-family: cursive;
+    text-align: center;
+    font-size: 72pt;
+}
