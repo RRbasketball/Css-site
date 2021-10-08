@@ -1,6 +1,5 @@
 body  {
     background-color: #f0feff;
-    
 }
 h1 {
     color:#f0feff;
@@ -8,3 +7,56 @@ h1 {
     text-align: center;
     font-size: 72pt;
 }
+a:link {
+    color: chartreuse;
+}
+a:visited {
+    color: blueviolet;
+}
+a:hover {
+    color: #a9a9a9;
+}
+a {
+    text-decoration: none;
+    font-size: 30pt;
+    
+}
+*{
+    margin: 0pt;
+    padding: 0pt;
+   
+}
+div.header {
+    width: 100%;
+    background-color: darkgoldenrod;   
+}
+div.left {
+    float: left;
+    width: 30%;
+    height: 500px;
+    background-color: fuchsia
+        
+}
+div.right {
+    float: left;
+    width: 70%;
+    height: 500px;
+    background-color: chartreuse
+}
+div.footer {
+    display: inline-block;
+    width: 100%;
+    height: 100px;
+    background-color: #16f0df;
+    
+}
+
+p, a {
+    margin: 10px;
+}
+
+
+
+
+
+
