@@ -6,6 +6,7 @@ h1 {
     font-family: cursive;
     text-align: center;
     font-size: 72pt;
+    font-family: 'Caveat', cursive;
 }
 a:link {
     color: chartreuse;
@@ -41,7 +42,8 @@ div.right {
     float: left;
     width: 70%;
     height: 500px;
-    background-color: chartreuse
+    background-color: chartreuse;
+    font-family: 'Mukta', sans-serif;
 }
 div.footer {
     display: inline-block;
@@ -54,8 +56,7 @@ div.footer {
 p, a {
     margin: 10px;
 }
-
-
+                                                     
 
 
 
